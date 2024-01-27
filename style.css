@@ -1,0 +1,202 @@
+.shapka {
+    display:flex;
+    width: 1024;
+    text-align: center;
+    padding: 5px;
+}
+
+.imya {
+    color: rgb(55, 135, 255);
+}
+
+.ssilki {
+    text-align: right;
+    width: 10000px ;
+    color: rgb(134, 134, 134);
+}
+
+.osnova {
+    display:flex;
+    width: 1024;
+    padding: 5px;
+}
+
+.tekst {
+    padding: 5px;
+    margin: 60px 0px 80px 15px;
+}
+
+.first_text {
+    background-color: rgb(55, 135, 255);
+    color: white;
+    padding: 3px;
+    border-radius: 7.5px;
+    width: 280px;
+}
+
+.secound_text {
+    font-size: 39px;
+    color: rgb(134, 134, 134);
+    padding: 20px 0px 0px 0px;
+}
+
+.third_text {
+    color: rgb(55, 135, 255);
+    font-size: 60px;
+    padding: 3px 0px 0px 0px;
+}
+
+.fourth_text {
+    color: rgb(55, 135, 255);
+    font-size: 60px;
+}
+
+.knopki {
+    display:flex;
+    margin: 20px 0px 10px 0px;
+    padding: 7px;
+}
+
+.knopka1 {
+    margin: 5px 30px 5px 0px;
+    padding: 20px 40px;
+    background-color: rgb(55, 135, 255);
+    color: #ffff;
+    border-radius: 15px;
+}
+
+.knopka2 {
+    margin: 5px 10px 5px 0px;
+    padding: 20px 40px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+}
+
+.photo {
+    text-align: right;
+    margin: 0px 0px 0px 70px;
+}
+
+footer {
+    text-align: center;
+    background-color: #f1f1f1;
+}
+
+h1 {
+    color: rgb(55, 135, 255);
+    text-align: center;
+
+}
+
+.znachki {
+    margin: 20px 0px 0px 0px;
+}
+
+.podzagolovok {
+    color: #ff0077;
+    margin: 22px 25px 15px;
+}
+
+.resume_menu {
+    background-color: #f1f1f1;
+}
+
+.card {
+    margin: 5px;
+    background-color: white;
+    width: 600px;
+    display: flex;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.card1  {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.many_cards {
+    display: flex;
+}
+
+.card2{
+    margin: 20px;
+}
+
+.osnova_resume {
+    margin: 10px;
+}
+
+.fa-wand-magic-sparkles {
+    color: #ff0077;
+    margin: 20px 15px 15px;
+    font-size: x-large;
+}
+
+.fa-code {
+    color: rgb(55, 135, 255);
+    margin: 20px 15px 15px;
+    font-size: x-large;
+}
+
+.skills_languages {
+    background-color: #fff;
+    display: flex;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.skills_languages-bloks {
+    background-color: #f1f1f1;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.fa-book-bookmark {
+    color: rgb(55, 135, 255);
+}
+
+.fa-sleigh {
+    color: rgb(55, 135, 255);
+}
+
+.project_card {
+    display: flex;
+    margin: 50px 15px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: #f1f1f1;
+}
+
+.photo-projet {
+    border-radius: 30px;
+}
+
+.project_name {
+    color: #ff0077;
+    margin: 120px 25px 15px 20px;
+}
+
+.tekst_ssilka {
+    margin: 10px 40px 10px 5px;
+}
+
+.project_text {
+    margin: 0px 0px 20px 0px;
+}
+
+.ssilka {
+    background-color: #fff;
+    padding: 20px;
+    margin: 0px 210px 0px 0px;
+    border-radius: 17px;
+    text-align: center;
+}
+
+.ssilka:hover {
+    background-color: #ffaed4;
+}
+
