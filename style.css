@@ -1,3 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+.fa-snowflake {
+    color: rgb(136, 184, 255);
+}
+
+.fa-snowflake:hover {
+    color:rgb(68, 161, 248);
+}
+
+.section_2project {
+    display: flex;
+    text-align: center;
+}
+
+.header_2project {
+    font-family: Mountains of Christmas;
+    margin: 10px;
+}
+
+.body_2project {
+    font-family: Pangolin;
+}
+
+.article_2project {
+    margin: 10px;
+    padding: 13px;
+    background-color: #c8ffff;
+    border-radius: 15px;
+}
+
+.fa-snowman  {
+    color: rgb(136, 184, 255);
+}
+
+.fa-snowman:hover {
+    color:rgb(68, 161, 248);
+}
+
+
+.fa-person-snowboarding  {
+    color: rgb(136, 184, 255);
+}
+
+.fa-person-snowboarding:hover {
+    color:rgb(68, 161, 248);
+}
+
+
+.fa-igloo  {
+    color: rgb(136, 184, 255);
+}
+
+.fa-igloo:hover {
+    color:rgb(68, 161, 248);
+}
+
+
+.fa-person-skating  {
+    color: rgb(136, 184, 255);
+}
+
+.fa-person-skating:hover {
+    color:rgb(68, 161, 248);
+}
+
+
+.fa-socks  {
+    color: rgb(136, 184, 255);
+}
+
+.fa-socks:hover {
+    color:rgb(68, 161, 248);
+}
+
+
+.fa-gift  {
+    color: rgb(136, 184, 255);
+}
+
+.fa-gift:hover {
+    color:rgb(68, 161, 248);
+}
+
+
+.fa-gifts  {
+    color: rgb(136, 184, 255);
+}
+
+.fa-gifts:hover {
+    color:rgb(68, 161, 248);
+}
+
+.body_project1 {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Neucha;
+    font-size:x-large;
+    background-color: #6495ed;
+    color: white;
+}
+
+.colorpage1 {
+    background-color: #fff785;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Neucha;
+    font-size:x-large;
+    color: white;
+}
+
+.colorpage2 {
+    background-color: #8dd9bf;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Neucha;
+    font-size:x-large;
+    color: white;
+}
+
+.colorpage3 {
+    background-color: #fc7d6f;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Neucha;
+    font-size:x-large;
+    color: white;
+}
+
 .shapka {
     display:flex;
     width: 1024;
