@@ -160,8 +160,14 @@
 
 .osnova {
     display:flex;
-    width: 1024;
     padding: 5px;
+    margin: auto;
+    width: 1024px;
+}
+
+.project_main {
+    margin: auto;
+    width: 1024px;
 }
 
 .tekst {
@@ -233,6 +239,7 @@ h1 {
 
 .znachki {
     margin: 20px 0px 0px 0px;
+    color: rgb(55, 135, 255);
 }
 
 .podzagolovok {
